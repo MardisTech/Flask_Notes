@@ -1,0 +1,5 @@
+python server notes:
+
+
+stuck at 1:34 https://www.youtube.com/watch?v=dam0GPOAvVI&t=1166s
+-db.create_all not accepting app=app
